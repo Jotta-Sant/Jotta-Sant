@@ -16,8 +16,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
  <a href="https://discord.gg/DEDBPKKg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "jottasantana97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
